@@ -21,6 +21,13 @@ Sobre la enseñanza
   -   Post-curso
   -   Alianzas con otras comunidades/organizaciones
 
+Accesibilidad
+
+  - Proceso de accesibilidad materiales
+  - Proceso de accesibilidad curso
+  - Perfiles de accesibilidad
+  - Herramientas
+
 Difusión
   - Marca e identidad visual
   - Estrategia de comunicación
