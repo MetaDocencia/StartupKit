@@ -10,6 +10,7 @@ Sobre MetaDocencia
  - Licencia
  - Estructura
  - Gobernanza
+ - Contribuir
 
 Sobre la enseñanza
   - Cursos disponibles
