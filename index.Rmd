@@ -1,0 +1,16 @@
+--- 
+title: "MetaDocencia Startup Kit"
+author: "MetaDocencia"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: MetaDocencia/StartupKit
+description: "Versión beta Kit con documentación y guias para crear tu propia MetaDocencia"
+---
+
+# Versión beta
+
