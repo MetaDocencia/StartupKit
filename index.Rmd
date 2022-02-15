@@ -16,7 +16,7 @@ description: "Versión beta Kit con documentación y guias para crear tu propia 
 
 ## Quién eres
 
-Esta guía tiene como objetivo presentar y enseñar el proceso que llevamos adelante para crear y desarrollar MetaDocencia. Cada sección de este kit tiene como objetivo satisfacer las necesidades de personas específicas, estas cuatro personas que se describen a continuación definen la audiencia prevista para este libro:
+Esta guía tiene como objetivo presentar y enseñar el proceso que llevamos adelante para crear y desarrollar MetaDocencia. Cada sección de este kit tiene como objetivo satisfacer las necesidades de personas específicas, estas tres personas que se describen a continuación definen la audiencia prevista para este libro:
 
 * **Natalia**: es docente universitaria, se encontró con la necesidad de llevar sus clases on-line debido a la pandemia y encontró los cursos de MetaDocencia.  Luego de tomar el Intro al ABC quedó muy entusiasmada por la idea de una comunidad docente en la cual seguir apoyandose y participando, por eso quiere ser voluntaria y ayudar de alguna manera a que esta comunidad continúe desarrollandose.  Natalia va a usar el kit como apoyo para conocer más detalles sobre el fucionamiento y los roles de MetaDocencia.
 
