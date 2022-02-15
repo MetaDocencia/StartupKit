@@ -1,10 +1,31 @@
 # Sobre la enseñanza
 
 ## Cursos disponibles
-## Dictado de un curso
+
+Los cursos disponibles se encuentran en nuestro sitio web: https://www.metadocencia.org/cursos/
+
+A medida que vamos generando nuevos cursos se van listando en esa sección.  En el capítulo [Nuestro proceso para generar nuevos cursos]() te contamos como generamos y desarrollamos estos cursos.
+
+Todos nuestros cursos tienen una licencia de la familia de las Creative Commons que permite su reuso.  Como nosotros también usamos materiales de otras comunidades y personas muchas veces tenemos que utilizar su misma licencia por ser una de las condiciones para poder utilizar su material. Podes conocer más sobre licencias en el capítulo [Sobre MetaDocencia]()
+
+## Modalidad de los cursos
+
+Nuestros cursos son todos on-line. Hemos realizado los cursos de tres maneras:
+
+- Organizados solo por MetaDocencia: las personas se preinscriben completando un formulario e indicando a que curso se quieren inscribir.  Cuando tenemos la cantidad necesaria de inscriptos, se organiza una edición del curso y se invita a todas las personas inscriptas. En general se necesita invitar al doble de personas para tener una asistencia de la cantidad adecuada para el curso.
+
+- Organizados con otres: estos cursos se realizan en conjunto con otras comunidades o en el marco de otros eventos de mayor envergadura como conferencias.  Los cursos se ofrecen como una edición especial y son para los miembros de las comunidades o los asistentes a las conferencias.  Hemos organizados eventos con [R-Ladies](), [RenBaires](), [LatinR](), [Women in Bioinformatics and Data Science Latam](), por ejemplo.
+
+- Cursos A la carta: estos cursos son solicitados por diferentes instituciones, organizaciones o comunidades. Los asistentes pertenecen a estas organizaciones y parte del contenido se puede adaptar a sus necesidades.  Podes leer mas sobre estas experiencias en estos blog post:
+ * INTA CR La Pampa - San Luis
+ * INTA Joven
+ * Bolsa de Comercio de Rosario
+
+
+## Nuestro proceso para enseñar
+
 ### Pre-inscripción
 ### Preparación pre-curso
 ### Dictado del curso
 ### Post-curso
-## Desarrollando un curso
-## Alianzas con otras comunidades/organizaciones
+
