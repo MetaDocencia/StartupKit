@@ -12,20 +12,52 @@ Todos nuestros cursos tienen una licencia de la familia de las Creative Commons 
 
 Nuestros cursos son todos on-line. Hemos realizado los cursos de tres maneras:
 
-- Organizados solo por MetaDocencia: las personas se preinscriben completando un formulario e indicando a que curso se quieren inscribir.  Cuando tenemos la cantidad necesaria de inscriptos, se organiza una edición del curso y se invita a todas las personas inscriptas. En general se necesita invitar al doble de personas para tener una asistencia de la cantidad adecuada para el curso.
+- *Organizados solo por MetaDocencia:* las personas se preinscriben completando un formulario e indicando a que curso se quieren inscribir.  Cuando tenemos la cantidad necesaria de inscriptos, se organiza una edición del curso y se invita a todas las personas inscriptas. En general se necesita invitar al doble de personas para tener una asistencia de la cantidad adecuada para el curso.
 
-- Organizados con otres: estos cursos se realizan en conjunto con otras comunidades o en el marco de otros eventos de mayor envergadura como conferencias.  Los cursos se ofrecen como una edición especial y son para los miembros de las comunidades o los asistentes a las conferencias.  Hemos organizados eventos con [R-Ladies](), [RenBaires](), [LatinR](), [Women in Bioinformatics and Data Science Latam](), por ejemplo.
+- *Organizados con otres:* estos cursos se realizan en conjunto con otras comunidades o en el marco de otros eventos de mayor envergadura como conferencias.  Los cursos se ofrecen como una edición especial y son para los miembros de las comunidades o los asistentes a las conferencias.  Hemos organizados eventos con [R-Ladies](), [RenBaires](), [LatinR](), [Women in Bioinformatics and Data Science Latam](), por ejemplo.
 
-- Cursos A la carta: estos cursos son solicitados por diferentes instituciones, organizaciones o comunidades. Los asistentes pertenecen a estas organizaciones y parte del contenido se puede adaptar a sus necesidades.  Podes leer mas sobre estas experiencias en estos blog post:
- * INTA CR La Pampa - San Luis
- * INTA Joven
- * Bolsa de Comercio de Rosario
+- *Cursos A la carta:* estos cursos son solicitados por diferentes instituciones, organizaciones o comunidades. Los asistentes pertenecen a estas organizaciones y parte del contenido se puede adaptar a sus necesidades.  Podes leer mas sobre estas experiencias en estos blog post:
+ * [INTA CR La Pampa - San Luis]()
+ * [Red INTA Joven]()
+ * [Bolsa de Comercio de Rosario]()
 
 
 ## Nuestro proceso para enseñar
 
 ### Pre-inscripción
+
+Para participar los estudiantes se deben registrar completando un [formulario de registro]() que automáticamente los pre-inscribe a nuestro primer curso _Introducción al ABC para enseñar_. Si además les interesa alguno de los otros cursos, deben ingresar en las páginas de cada uno, donde encontrarán un botón para pre-inscribirte si el curso está abierto, utilizando solo su mail.
+
+#### Formulario
+
+Se utiliza un formulario de google para manejar las inscripciones.
+
+<acá poner las preguntas del formulario y porqué las hacemos.  Agregar un link a la plantilla>
+
+#### Accesibilidad
+
+Cuando se realiza la inscripción se dispara uno de los procesos de accesibilidad.  De acuerdo a las respuestas que dieron las personas en este formulario, se eniva un mail al equipo para que analice si es necesario acomodar el curso de una manera particular o las medidas que ya tomamos en nuetros materiales y en como nos organizamos son suficientes.
+Este proceso puede incluir comunicarse de manera directa con las personas que necesiten ser acomodadas para poder darles exactamente lo que necesitan para ser partes del curso.
+
+### Calendario de cursos
+
+El calendario de cursos se arma de acuerdo a la cantidad de inscriptos que tenemos en cada curso. Cuando se completa un cupo se proponen fechas y horarios de acuerdo a la disponibilidad de los docentes y se envía un email con todas las indicaciones para que los estudisntes puedan sumarse al curso online. 
+
+Las herramientas utilizadas para este proceso son google sheets, calendly y zoom.
+
+#### Ejemplo de mail de contacto
+
+<agregar el texto del mail de contacto>
+
 ### Preparación pre-curso
+
+Todos los cursos cuentan con al menos dos personas que pueden tener el rol de docente y/o ayudante. Este equipo se define cuando la edición del curso se organiza.
+
+Nos juntamos media hora antes para conocer detalles del grupo que tomará el curso y coordinar roles. Sugerimos tener a mano tu mate, café o agua para acompañar la jornada. 
+En ese momento, el equipo se pone de acuerdo en las tareas que asumirá cada una/o, por ejemplo, alguien puede encargarse del ingreso de estudiantes y compartir los links mientras la otra persona da apoyo a las actividades y contesta inquietudes por mensaje privado.
+
+Usamos una [aplicación Shiny](), que nos da un resumen de las características más importantes del grupo al que enseñaremos. 
+
 ### Dictado del curso
 ### Post-curso
 
