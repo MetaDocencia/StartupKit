@@ -45,19 +45,71 @@ El calendario de cursos se arma de acuerdo a la cantidad de inscriptos que tenem
 
 Las herramientas utilizadas para este proceso son google sheets, calendly y zoom.
 
+A las personas encargadas del curso les llegará un mail con los datos de la reunión y se agregará a sus calendarios.  En ese mail y en el evento del calendario se encuentra el link a zoom que tiene embebida la contraseña.
+
 #### Ejemplo de mail de contacto
 
 <agregar el texto del mail de contacto>
 
 ### Preparación pre-curso
 
-Todos los cursos cuentan con al menos dos personas que pueden tener el rol de docente y/o ayudante. Este equipo se define cuando la edición del curso se organiza.
+Todos los cursos cuentan con al menos dos personas que pueden tener el rol de docente y/o ayudante. Este equipo se define cuando la edición del curso se organiza.  El equipo de infraestructura también se ocupó de crear una carpeta para el curso que contiene el listado de asistentes y el documento compartido que se usa en el curso.
 
-Nos juntamos media hora antes para conocer detalles del grupo que tomará el curso y coordinar roles. Sugerimos tener a mano tu mate, café o agua para acompañar la jornada. 
-En ese momento, el equipo se pone de acuerdo en las tareas que asumirá cada una/o, por ejemplo, alguien puede encargarse del ingreso de estudiantes y compartir los links mientras la otra persona da apoyo a las actividades y contesta inquietudes por mensaje privado.
+Nos juntamos media hora antes para conocer detalles del grupo que tomará el curso y coordinar roles. Sugerimos tener a mano tu mate, café o agua para acompañar la jornada.
+
+Contamos con un grupo de whatsapp como medio alternativo de comunicación por cualquier incidente que pueda ocurrir.  Antes de iniciar un curso las personas responsables saluda y avisan que se van a conectar.
+
+Haciendo click en el link a zoom de la invitación se inicia la reunión. La primera persona que llega reclama el rol de host y activa la sala de espera.Todas las personas cambian su nombre en zoom al formato rol y nombre. Ejemplo: 0Ayudante Juana.  Esto ayuda a las personas a identificar a las personas de MetaDocencia y a 
+
+Cuando llega el resto del equipo, es el momento para acordar las tareas que asumirá cada una/o, por ejemplo, alguien puede encargarse del ingreso de estudiantes y compartir los links mientras la otra persona da apoyo a las actividades y contesta inquietudes por mensaje privado.  Aqui se debe acordar quién creará las breakout rooms. Quien esté a cargo, necesita tener _rol de hospedador en zoom_, y este, luego, poner a la/el co-docente como co-anfitrión.
 
 Usamos una [aplicación Shiny](), que nos da un resumen de las características más importantes del grupo al que enseñaremos. 
 
+<agregar un ejemplo del informe el curso>
+
 ### Dictado del curso
+
+Quien tenga el rol de dar la bienvenida a los asistentes Verifica que los asistentes coinciden con quienes aparecen en el listado. En caso de que aparezca con otro nombre en zoom, solicitarle que lo cambie de ser posible.
+
+Quien tenga el [rol de ayudante]() deberá generar el link corto del documento compartido (utilizamos la plataforma https://tiny.cc/) 
+
+Se dicta el curso con las slides, documento compartido y dinámica de acuerdo al guión y los roles.
+
+Para cada curso existe un documento del ayudante con el guión y la información que se debe compartir en cada momento. 
+
+<compartir un ejemplo de documento, puede ser una plantilla o podemos generar un rmarkdowncon alguno de los docs, tal vez el del intro al ABC es el mas completo>
+
+Hay algunas guias generales que se aplican a todos los cursos:
+
+- El link al doc compartido se comparte cada vez que se arranca un ejercicio por si algún participante lo cerró o no lo encuentra.
+
+- Es Posible que el link abreviado (http://tiny.cc) no permita la edición del documento en ciertos navegadores. Solución: Compartir el link completo desde la opción “compartir” del documento compartido del dia.  El primer ejercicio del documento compartido permite chequear que los estudiantes tengan acceso y permiso de edición.
+
+- Al compartir links en el chat de zoom está bueno incluir de qué se trata el link, De esa manera si un participante lo ve tarde igualmente va a saber de qué se trata.
+_Por ejemplo: “Para unirse a Slack: http://tiny.cc/slackmetadocencia”_
+
+- Estar atento/a a las personas que muestren algún inconveniente de conexión para ayudarlas si se retrasan en alguna de las actividades planteadas.
+
+- Avisar a la/el docente si hay algún asistente que puede llegar a sentir algún grado de _frustración_ porque no está pudiendo cumplir una determinada consigna por impericia técnica o problemas tecnológicos (entrar al doc, completar el doc compartido, subir la foto, etc). 
+De esa manera, la/el docente le hace participar pidiéndole que abra su micrófono y que hable acerca de cómo hizo algún ejercicio (uno que sí haya podido hacer, no el que le trajo dificultades, así comparte algo que represente un pequeño logro para ella o el) o pidiendole su opinión sobre un tema.
+
+- Dejar comentarios en el documento compartido a las soluciones de los estudiantes, de ser posible que todos tengan alguna devolución, complementar los comentarios entre los docentes.  Tener cuidado de no hacer dos comentarios a la misma persona y que una persona no reciba ninguno.  Esto permite dar feedback a todos los asistentes, incluso quienes no participan en el chat o hablando con el micrófono.
+
+- Compartir la encuesta de fin de curso.  Mientras esto ocurre se puede tomar la asistencia en la planilla de asistentes.  Se indican tres estados: 
+
+  * si la persona estuvo ausente.
+  * si la persona llegó tarde o se fue antes. Implica que no cumple los requisitos suficientes para decir que completó el curso y puede participar en los siguientes.
+  * si estuvo presente (o se perdió menos de media hora del curso).
+
+
 ### Post-curso
 
+No se cierra Zoom al despedirse de los asistentes tras finalizar el curso. Cuando queden en la sala sólo tú y tu ayudante, le dedicamos unos 15 minutos a repasar el feedback de sus asistentes.
+
+Si pueden también se dan feedback entre ustedes sobre como dieron clase, como ayudaron y sobre el contenido del curso, si hay ideas de mejora y/o cambios, por ejemplo orden de las diapositivas, detalles, otros materiales para compartir en el chat.
+
+Si no se pudo antes, también es buen momento de completar al asistencia.
+
+Se debe guardar el chat y guardarlo en la carpeta del curso. Esto ayuda, por ejemplo, a juntar a un estudiante con un recurso que nos pidió.
+
+Una de las personas del equipo comparte en el grupo de whatsapp un resumen indicando cuanta gente asistió, del feedback de la encuesta y sus impresiones de como resultó el curso.  Esto permite que todo el equipo esté enterado de las actividades y como resultaron.
