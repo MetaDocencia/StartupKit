@@ -1,6 +1,8 @@
 # MetaDocencia Startup Kit
 Kit con documentación y guias para crear tu propia MetaDocencia
 
+Ver repo Paquete 1: https://github.com/MetaDocencia/MetaDocenciaEnUnaCajaPaquete1
+
 Posible estructura - Versión 1.0
 
 Sobre MetaDocencia
